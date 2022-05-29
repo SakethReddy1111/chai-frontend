@@ -1,0 +1,11 @@
+.apper {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  width: 100%;
+}
+
+#success {
+  color: red;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
