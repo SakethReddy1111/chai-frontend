@@ -3,6 +3,8 @@
 
 see live now : https://chai-corp.vercel.app/
 
+backend repo link : https://github.com/SakethReddy1111/chai-backend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
