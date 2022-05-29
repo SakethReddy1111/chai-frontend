@@ -6,6 +6,8 @@
 #success {
   color: red;
   display: flex;
+  padding-top:25px;
+  font-weigth:bold;
   text-align: center;
   align-items: center;
 }
